@@ -1,6 +1,9 @@
 import numpy as np
 import time
 
+
+#not up to date with the word list.
+
 start = time.time()
 
 file = open('answers.txt', 'r')
