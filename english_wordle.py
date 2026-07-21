@@ -3,6 +3,7 @@ import time
 
 
 #not up to date with the word list.
+#need to update it with new list, or possibly with a corpus.
 
 start = time.time()
 
